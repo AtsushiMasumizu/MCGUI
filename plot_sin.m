@@ -4,3 +4,5 @@ plot(t,x)
 hold on
 x=cos(t);
 plot(t,x)
+x=sin(t)+cos(t);
+plot(t,x)
